@@ -4,8 +4,7 @@ Primero, escoger un tema sobre el cual se quiere trabajar, para este se escogió
 Instalar en la terminal: 
 pip install pygame
 ## Código
--Ver: gam.py
+-Ver: gam.py<br>
 En caso de no estar familiarizado con pygame se recomienda no modificar class Button()
-// hola
 ## Nivel 1
 
